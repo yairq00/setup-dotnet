@@ -1,0 +1,2 @@
+- nombre: Configuración .NET Core SDK
+  usos: acciones/setup-dotnet@v2.1.0
